@@ -1,0 +1,26 @@
+E:\التفاعل بين الانسان والحاسوب\IUD applications_lap\UserControls\UserControls\bin\Debug\UserControls.exe.config
+E:\التفاعل بين الانسان والحاسوب\IUD applications_lap\UserControls\UserControls\bin\Debug\UserControls.exe
+E:\التفاعل بين الانسان والحاسوب\IUD applications_lap\UserControls\UserControls\bin\Debug\UserControls.pdb
+E:\التفاعل بين الانسان والحاسوب\IUD applications_lap\UserControls\UserControls\bin\Debug\Bunifu_UI_v1.52.dll
+E:\التفاعل بين الانسان والحاسوب\IUD applications_lap\UserControls\UserControls\obj\Debug\UserControls.Form1.resources
+E:\التفاعل بين الانسان والحاسوب\IUD applications_lap\UserControls\UserControls\obj\Debug\UserControls.Properties.Resources.resources
+E:\التفاعل بين الانسان والحاسوب\IUD applications_lap\UserControls\UserControls\obj\Debug\UserControls.csproj.GenerateResource.Cache
+E:\التفاعل بين الانسان والحاسوب\IUD applications_lap\UserControls\UserControls\obj\Debug\UserControls.exe
+E:\التفاعل بين الانسان والحاسوب\IUD applications_lap\UserControls\UserControls\obj\Debug\UserControls.pdb
+E:\التفاعل بين الانسان والحاسوب\IUD applications_lap\UserControls\UserControls\obj\Debug\UserControls.UserControl1.resources
+E:\التفاعل بين الانسان والحاسوب\IUD applications_lap\UserControls\UserControls\obj\Debug\UserControls.UserControl2.resources
+E:\التفاعل بين الانسان والحاسوب\IUD applications_lap\UserControls\UserControls\obj\Debug\UserControls.UserControl3.resources
+E:\التفاعل بين الانسان والحاسوب\IUD applications_lap\UserControls\UserControls\obj\Debug\UserControls.Start.resources
+C:\Users\EmranCo\Desktop\UserControls\UserControls\bin\Debug\UserControls.exe.config
+C:\Users\EmranCo\Desktop\UserControls\UserControls\obj\Debug\UserControls.exe
+C:\Users\EmranCo\Desktop\UserControls\UserControls\obj\Debug\UserControls.pdb
+C:\Users\EmranCo\Desktop\UserControls\UserControls\bin\Debug\UserControls.exe
+C:\Users\EmranCo\Desktop\UserControls\UserControls\bin\Debug\UserControls.pdb
+C:\Users\EmranCo\Desktop\UserControls\UserControls\obj\Debug\UserControls.csprojResolveAssemblyReference.cache
+C:\Users\EmranCo\Desktop\UserControls\UserControls\obj\Debug\UserControls.Form1.resources
+C:\Users\EmranCo\Desktop\UserControls\UserControls\obj\Debug\UserControls.Properties.Resources.resources
+C:\Users\EmranCo\Desktop\UserControls\UserControls\obj\Debug\UserControls.Start.resources
+C:\Users\EmranCo\Desktop\UserControls\UserControls\obj\Debug\UserControls.UserControl1.resources
+C:\Users\EmranCo\Desktop\UserControls\UserControls\obj\Debug\UserControls.UserControl2.resources
+C:\Users\EmranCo\Desktop\UserControls\UserControls\obj\Debug\UserControls.UserControl3.resources
+C:\Users\EmranCo\Desktop\UserControls\UserControls\obj\Debug\UserControls.csproj.GenerateResource.Cache
